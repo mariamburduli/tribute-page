@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ body {
+    background-color: #eee;
+    color: #333333;
+ }
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin: 26.8px 0 0;
+  font-size: 4rem;
+}
+
+header p {
+  margin: 16px 0;
+  font-size: 1.6rem;
+}
+
+
+.welcome-content .container {
+  text-align: center;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+.welcome-content .container p {
+    margin: 15px 0 5px 0;
+}
+
+
+.borlaughs-life .container {
+    max-width: 550px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.borlaughs-life .container h3 {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.borlaughs-life .container ul li {
+    margin: 16px 0;
+}
+
+.borlaughs-life .container ul li span {
+    font-weight: bold;
+}
+
+.borlaughs-life .container .singh {
+    margin: 50px 0;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.borlaughs-life .wiki {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+}
